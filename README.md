@@ -1,1 +1,1 @@
-Find the 'code' folder and run 'main.py'.
+Dungeon soul --> code --> main.py
