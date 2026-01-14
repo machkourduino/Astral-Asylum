@@ -1,4 +1,5 @@
 To play: Dungeon soul --> dist --> main.exe
+
 Itch.io publication: https://og-shroom.itch.io/astral-asylum
 
 <img width="794" height="455" alt="image" src="https://github.com/user-attachments/assets/ca668f0b-0651-41de-b42c-74c89a5e2bd8" />
